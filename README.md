@@ -1,6 +1,6 @@
 # lita-multi
 
-Enables [Lita][1] to connecto to multiple chat services using different
+Enables [Lita][1] to connect to multiple chat services using different
 adapters.
 
 ## Installation
